@@ -39,6 +39,8 @@ conda install -c conda-forge networkx pandas numpy
     * Simple Shortest-Path Problem by edge list
     * Secretary problem @excel
     * Traveler salesperson problem with Dynamic Programming
+3. Linear Programming
+    * Maximum Flow
 
 ## Todo list
 
