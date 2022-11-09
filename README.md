@@ -49,6 +49,7 @@ conda install -c conda-forge networkx pandas numpy
     * LP Dual @excel
     * LP custom P @excel
     * Maximum Flow
+    * Maximum Flow @excel
 
 ## Todo list
 
@@ -56,7 +57,6 @@ conda install -c conda-forge networkx pandas numpy
     * Dijkstra Algorithm for Undirected graph
     * Dijkstra Algorithm for Directed graph optimizations
 2. Linear Programming
-    * Maximum Flow @excel
     * Maximum Flow Min Cut
     * Traffic Routing Problem
     * Ring Traffic One Failure
