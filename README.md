@@ -49,7 +49,11 @@ conda install -c conda-forge networkx pandas numpy
     * Dijkstra Algorithm for Directed graph optimizations
 2. Dynamic Programming
     * Equipment Replacement
-    * Resource Allocation
+3. Linear Programming
+    * Maximum Flow @excel
+    * Maximum Flow Min Cut
+    * Traffic Routing Problem
+    * Ring Traffic One Failure
 
 <!-- ## Authors
 
