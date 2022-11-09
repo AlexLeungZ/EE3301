@@ -38,8 +38,16 @@ conda install -c conda-forge networkx pandas numpy
     * Simple Shortest-Path Problem with line ending
     * Simple Shortest-Path Problem by edge list
     * Secretary problem @excel
-    * Traveler salesperson problem with Dynamic Programming
+    * Traveler salesperson problem
+    * Equipment Replacement
+    * Resource Allocation
 3. Linear Programming
+    * LP simple @excel
+    * LP UV simple @excel
+    * LP matrix form @excel
+    * LP UV matrix form @excel
+    * LP Dual @excel
+    * LP custom P @excel
     * Maximum Flow
 
 ## Todo list
@@ -47,9 +55,7 @@ conda install -c conda-forge networkx pandas numpy
 1. Graph Theory
     * Dijkstra Algorithm for Undirected graph
     * Dijkstra Algorithm for Directed graph optimizations
-2. Dynamic Programming
-    * Equipment Replacement
-3. Linear Programming
+2. Linear Programming
     * Maximum Flow @excel
     * Maximum Flow Min Cut
     * Traffic Routing Problem
