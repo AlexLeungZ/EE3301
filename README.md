@@ -41,6 +41,7 @@ conda install -c conda-forge networkx pandas numpy
     * Traveler salesperson problem
     * Equipment Replacement
     * Resource Allocation
+    * 0-1 Knapsack DP
 3. Linear Programming
     * LP simple @excel
     * LP UV simple @excel
