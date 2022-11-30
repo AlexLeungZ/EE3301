@@ -46,6 +46,8 @@ conda install -c conda-forge networkx pandas numpy
     * Traveler salesperson problem
 3. Linear Programming
     * Maximum Flow
+4. Convex Optimizations
+    * *(Empty)*
 
 ### Excel
 
@@ -65,6 +67,9 @@ conda install -c conda-forge networkx pandas numpy
     * LP Dual
     * LP custom P
     * Maximum Flow
+4. Convex Optimizations
+    * General Convex Optimizations
+    * Minimize RSS
 
 ## Todo list
 
