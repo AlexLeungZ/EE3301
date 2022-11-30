@@ -10,12 +10,13 @@ Codes and excel calculator for CityU EE3301 with steps for direct copy.
 
 ### Dependencies
 
-1. Python for Python notebook calculator
+1. Python notebook calculator
    * Python 3.9+
    * Jupyter notebook
    * Package management: conda or mamba
    * Library: networkx, pandas, numpy
-2. Excel for excel calculator
+2. Excel calculator
+   * Excel 2019 or newer
 
 ### Installing
 
@@ -30,27 +31,40 @@ conda install -c conda-forge networkx pandas numpy
 
 ## Supported calculator
 
+### Python notebook
+
 1. Graph Theory
     * Adjcent matrix to Edge list convertor
     * Dijkstra Algorithm for Directed graph
 2. Dynamic Programming
+    * 0-1 Knapsack DP
+    * Equipment Replacement
+    * Resource Allocation
     * Simple Shortest-Path Problem with node ending
     * Simple Shortest-Path Problem with line ending
     * Simple Shortest-Path Problem by edge list
-    * Secretary problem @excel
     * Traveler salesperson problem
-    * Equipment Replacement
-    * Resource Allocation
-    * 0-1 Knapsack DP
 3. Linear Programming
-    * LP simple @excel
-    * LP UV simple @excel
-    * LP matrix form @excel
-    * LP UV matrix form @excel
-    * LP Dual @excel
-    * LP custom P @excel
     * Maximum Flow
-    * Maximum Flow @excel
+
+### Excel
+
+1. Graph Theory
+    * *(Empty)*
+2. Dynamic Programming
+    * Secretary problem
+3. Linear Programming
+    * 0-1 Knapsack LP
+    * 0-1 Knapsack ILP
+    * 0-1 Knapsack Greedy
+    * Convex Optimizations
+    * LP simple
+    * LP UV simple
+    * LP matrix form
+    * LP UV matrix form
+    * LP Dual
+    * LP custom P
+    * Maximum Flow
 
 ## Todo list
 
