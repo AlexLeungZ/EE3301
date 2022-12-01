@@ -56,16 +56,12 @@ conda install -c conda-forge networkx pandas numpy
 2. Dynamic Programming
     * Secretary problem
 3. Linear Programming
-    * 0-1 Knapsack LP
     * 0-1 Knapsack ILP
     * 0-1 Knapsack Greedy
     * Convex Optimizations
-    * LP simple
-    * LP UV simple
     * LP matrix form
     * LP UV matrix form
     * LP Dual
-    * LP custom P
     * Maximum Flow
 4. Convex Optimizations
     * General Convex Optimizations
