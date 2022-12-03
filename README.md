@@ -45,7 +45,7 @@ conda install -c conda-forge networkx pandas numpy
     * Simple Shortest-Path Problem by edge list
     * Traveler salesperson problem
 3. Linear Programming
-    * Maximum Flow
+    * Maximum Flow Min Cut
 4. Convex Optimizations
     * *(Empty)*
 
@@ -71,9 +71,7 @@ conda install -c conda-forge networkx pandas numpy
 
 1. Graph Theory
     * Dijkstra Algorithm for Undirected graph
-    * Dijkstra Algorithm for Directed graph optimizations
 2. Linear Programming
-    * Maximum Flow Min Cut
     * Traffic Routing Problem
     * Ring Traffic One Failure
 
