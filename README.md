@@ -66,18 +66,3 @@ conda install -c conda-forge networkx pandas numpy
 4. Convex Optimizations
     * General Convex Optimizations
     * Minimize RSS
-
-## Todo list
-
-1. Graph Theory
-    * Dijkstra Algorithm for Undirected graph
-2. Linear Programming
-    * Traffic Routing Problem
-    * Ring Traffic One Failure
-
-<!-- ## Authors
-
-Contributors names and contact info
-
-ex. Name 
-ex. [@Name](https://name.com) -->
